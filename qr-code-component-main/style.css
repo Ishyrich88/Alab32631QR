@@ -40,3 +40,19 @@ h2 {
     text-align: center;
     padding: 0 1.3rem;
 }
+
+/*
+media queries 
+
+
+
+*/
+
+@media screen and (max-width: 480px) {
+    #qr-container {
+        margin-top: 2rem;
+        width: 95%
+
+    }
+}
+
